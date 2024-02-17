@@ -27,7 +27,7 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 
 
 # MotionLayout (Educational Application)
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+<a href='https://github.com/alimbeker/MotionLayout'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
 Learn MotionLayout and SharedElementTransition
@@ -36,7 +36,7 @@ Learn MotionLayout and SharedElementTransition
 
 
 # RealtimeFirebase (Educational Application)
-<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
+<a href='https://github.com/alimbeker/FirebaseRealtimeDatabase'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
 Learn MotionLayout and SharedElementTransition
