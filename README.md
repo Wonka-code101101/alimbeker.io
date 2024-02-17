@@ -36,9 +36,7 @@ Application is for the students which contain questions in a quiz wrapped in a p
 
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
-<p align="center">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
-</p>
+
 
 
 ## Some Cool Projects :
