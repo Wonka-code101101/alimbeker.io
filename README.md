@@ -30,15 +30,17 @@ It is a weather app that uses Retrofit with rest api, MVVM architecture, android
 <a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
 
-This application is still in development and I was on the contract-based android application where I make quizzes, statistics, overlay windows, and fix some errors in different sections of the app.
-
-Application is for the students which contain questions in a quiz wrapped in a package, also the teacher can create packages with number of questions in its answer and those packages will get converted in the quiz and these packages will be available in the packaging market in the application. There are other useful features in application like a floating window where the user can enable and give answers while he is outside of the application and other features like sharing packages and give a review to packages.
-
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
+Learn MotionLayout and SharedElementTransition
+### Technolgies : Android SDK , Kotlin, Xml 
 
 
 
+# RealtimeFirebase (Educational Application)
+<a href='https://github.com/alimbeker/GoodLook'><img alt='Get it on GitHub' src='https://freelance.ru/img/portfolio/pics/00/42/15/4330978.jpg' height='100px'/></a>
 
+
+Learn MotionLayout and SharedElementTransition
+### Technolgies : Android SDK , Kotlin, Xml , Firebase
 ## Some Cool Projects :
 
 ### CrimeGuardian
